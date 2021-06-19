@@ -13,7 +13,7 @@ id,turma,sexo,idade,altura,peso,filhos,fuma,toler,exercicio,cinema,op_cine,tv,op
 12,A,F,18,"1,66",54,3,NAO,M,0,2,B,0,R
 13,A,M,21,"1,7",58,2,NAO,I,6,1,M,30,R
 14,A,F,19,"1,78","68,5",1,SIM,I,5,1,M,2,N
-15,A,F,18,"1,65","3,5",1,NAO,P,4,1,B,10,R
+15,A,F,18,"1,65","63,5",1,NAO,P,4,1,B,10,R
 16,A,F,19,"1,63","47,4",3,NAO,P,0,1,B,18,R
 17,A,M,17,"1,82",66,1,NAO,P,3,1,B,10,N
 18,A,F,18,"1,8","85,2",2,NAO,P,3,4,B,10,R
